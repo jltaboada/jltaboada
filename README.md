@@ -10,7 +10,7 @@ Me llamo **Jose Luis Taboada**, aunque en el mundo digital y entre mis amigos me
 
 * **Educación:** Soy el director de la [Academia arrobaPi](https://arrobapi.com/) en Ourense, donde imparto clases de matemáticas (desde ESO hasta niveles universitarios), física, química e informática (programación, diseño web, ofimática y bases de datos).
 * **Desarrollo Web:** Además de enseñar, desarrollo proyectos a medida, soluciones personalizadas y herramientas web interactivas bajo la firma de *touchedisindo*.
-* **Aficiones:** Mi gran pasión fuera del aula es el **Geocaching**, un juego de búsqueda de tesoros a escala global en el que participo activamente desde 2008 junto a Bea, formando el equipo **BeayPepe**.
+* **Aficiones:** Mi gran pasión fuera del aula es el **Geocaching**, un juego de búsqueda de tesoros a escala global en el que participo activamente desde 2018 junto a Bea, formando el equipo **BeayPepe**.
 
 ---
 
